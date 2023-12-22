@@ -6,10 +6,7 @@ width="800"  height="3">
 
 </div>
 
-*The truest form of dependence in the world is when you try, and I am there to catch you. No matter what temper you may lose, I will bear it silently and handle it calmly. Until then, I eagerly anticipate our future together
-
 ----------
-```golang
 <h1> Hello, Hưnglunna dz nè🍑 <img src="" width="35"></h1> 
 
 <p align="center">
@@ -262,7 +259,6 @@ width="800"  height="3">
 &nbsp; <a href="mailto:kenyrm2250@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
 
-```
 
 <div align="center">
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
